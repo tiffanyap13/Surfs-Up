@@ -10,7 +10,7 @@ The purpose of this analysis is to provide the primary surf and ice cream shop s
  - ![June Temps"](./June_Temps.png)
  - ![December Temps](/December_Temps.png)
 
-## Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+## Summary
 The maximum temperatures for both months were within 2 degrees of each other and seem ideal for surfing and enjoying ice cream. However, the low temperatures, at 64 and 56 degrees respectively, may be on the cold side for ice cream consumption by patrons.  Regarding surfing, the surf shop would find it beneficial to have an inventory of wetsuits for both rental and sale, to help surfers make their surfing experience more enjoyable during December.  The standard deviation is 3.3 degrees for June and 3.7 degrees for December, revealing stable temperatures, which will be helpful to the stakeholder as he finalizes his decision on whether to proceed.
 
 ## Additional Queries
